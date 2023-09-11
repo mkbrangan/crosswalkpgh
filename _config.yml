@@ -1,12 +1,8 @@
-baseurl: "/dizer-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "/crosswalkpgh" # the subpath of your site, e.g. /blog
 url: "https://demo.themefisher.com" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
-title: "Dizer -  Multipurpose Business & Corporate Jekyll Template"
-email: "themefisher@gmail.com"
-phone: "+21 123 456 5523"
-address: "9567 Turner Trace Apt. 466 North Willie, BC C3G8A4"
-author: themefisher
-description: >- # this means to ignore newlines
-  Dizer - Multipurpose Business & Corporate Jekyll Template Jekyll Theme For Mobile Apps Download Landing Page And Blogging.
+title: "Crosswalk Media, LLC"
+email: "mallorybrangan@gmail.com"
+
 logo: "/assets/images/logo.png"
 logo_icon: "/assets/images/logo-b.png"
 # contact form action
@@ -29,9 +25,6 @@ cta:
 
 ################## Social site ###############
 social:
-  - name: facebook
-    icon: "ti-facebook"
-    link: "#"
 
   - name: twitter
     icon: "ti-twitter-alt"
@@ -41,9 +34,6 @@ social:
     icon: "ti-linkedin"
     link: "#"
 
-  - name: pinterest
-    icon: "ti-pinterest"
-    link: "#"
 
 # Build settings
 permalink: "/:title"
